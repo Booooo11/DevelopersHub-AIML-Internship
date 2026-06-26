@@ -31,3 +31,10 @@
 3. Run all cells top to bottom
 
 ## Repository Structure
+DevelopersHub-AIML-Internship/
+├── Task1_Dataset_Visualization/
+│   └── task1.ipynb
+├── Task3_Heart_Disease/
+│   └── task3.ipynb
+└── Task6_House_Price/
+└── task6.ipynb
