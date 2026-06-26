@@ -1,6 +1,6 @@
 # DevelopersHub Corporation — AI/ML Engineering Internship
 
-**Intern Name:** Your Name Here  
+**Intern Name:** Muhammad Arslan Saeed  
 **Due Date:** 26th June, 2026
 
 ## Tasks Completed
